@@ -1,0 +1,51 @@
+body
+  background-color: gray
+  font-family: 'Shadows Into Light', cursive, serif
+  margin: 0px auto
+  text-shadow: 2px 2px 5px #CCC
+  
+ul
+  margin: 0px 60px 100px 60px
+  display: inline-block;
+
+h1
+  color: cornsilk
+  text-align: center
+  font-size: 200pt
+  margin: 60px 0px 100px 0px
+  position:relative;
+  bottom:150px;
+  left:150px;
+
+h2
+  color: cornsilk
+  text-align: center
+  font-size: 80pt
+  margin: 60px 0px 100px 0px
+
+h3
+  color: cornsilk
+  font-size: 40pt
+  margin: 60px 0px 100px 0px
+
+.list_title
+  color: red
+  
+.column
+
+.left 
+
+.right
+  color: cornsilk
+  text-align: center
+  font-size: 200pt
+  margin: 300px 0px 100px 0px
+  position:relative;
+  bottom:150px;
+  left:150px;
+  
+  
+  
+  a:link a:visited
+  color: white
+  text-decoration: none
